@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website built to showcase my projects, skills, and professional experience as a Java Fullstack Developer. It features a dark/light theme toggle, an auto-scrolling skills marquee, and a clean card-based layout that adapts seamlessly across all screen sizes. All portfolio data and icons are centrally managed through React Context, making it easy to update content from a single file.
 
-🔗 **Live Site:** https://portfolio-delta-olive-67.vercel.app/
+🔗 **Live Site:** https://portfolio-delta-olive-67.vercel.app/](http://localhost:3000/
 
 ---
 
